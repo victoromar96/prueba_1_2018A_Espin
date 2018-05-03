@@ -1,0 +1,2 @@
+la cadena normal es = programacion avanzada
+la cadena invertida es = adaznava  noicamargorp
