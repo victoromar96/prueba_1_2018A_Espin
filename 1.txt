@@ -1,0 +1,3 @@
+calculadora de binario a decimales
+numero de entrada: 
+4
